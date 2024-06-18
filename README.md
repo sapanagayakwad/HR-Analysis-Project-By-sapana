@@ -50,9 +50,9 @@ Technical Details:
 Setup Instructions:
 
 1. Clone the Repository:
-   ```sh
+   
    git clone https://github.com/yourusername/hr-analysis-dashboard.git
-   ```
+   
 
 2. Load Data:
    - Place your data files in the `data` folder.
